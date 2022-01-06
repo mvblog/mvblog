@@ -1,8 +1,12 @@
+
+
 - 👋 Hi, I’m Madhuri Vuddaraju
 - 👀 I’m interested in Cloud, CI/CD , Bigdata processing engines.
 - 🌱 I’m currently learning GitHub Actions.
 - 💞️ I’m looking to collaborate on Azure, terraform, cloud solution architecture.
-- 📫 You can reach me meetmadhuriv@gmail.com
+- 📫 You can reach me @meetmadhuriv@gmail.com
+
+Check out my technical writing on [@my blog](https://mvblog.github.io/).
 
 <!---
 mvblog/mvblog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
